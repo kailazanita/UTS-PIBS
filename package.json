@@ -1,6 +1,6 @@
 {
   "name": "UTS-PIBS",
-  "homepage": "https://yourusername.github.io/UTS-PIBS",
+  "homepage": "https://kailazanita.github.io/UTS-PIBS",
   "scripts": {
     "deploy": "gh-pages -d ."
   },
