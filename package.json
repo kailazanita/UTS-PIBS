@@ -1,9 +1,8 @@
 {
-  "name": "calculator-app",
-  "homepage": "https://yourdomain.com",
+  "name": "UTS-PIBS",
+  "homepage": "https://yourusername.github.io/UTS-PIBS",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d ."
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
